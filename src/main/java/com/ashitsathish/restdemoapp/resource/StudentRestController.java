@@ -1,4 +1,4 @@
-package com.ashitsathish.restdemoapp.Resource;
+package com.ashitsathish.restdemoapp.resource;
 
 import com.ashitsathish.restdemoapp.exceptionhandler.StudentNotFoundException;
 import com.ashitsathish.restdemoapp.model.Student;

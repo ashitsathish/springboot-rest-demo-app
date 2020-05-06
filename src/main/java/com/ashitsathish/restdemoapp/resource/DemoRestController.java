@@ -1,4 +1,4 @@
-package com.ashitsathish.restdemoapp.Resource;
+package com.ashitsathish.restdemoapp.resource;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
